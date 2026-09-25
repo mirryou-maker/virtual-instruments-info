@@ -35,7 +35,7 @@ information, because the app never asks for any of those in the first place.
 ## Network access
 
 The only network activity the app can trigger is opening your device's web browser when you tap the
-"Get the Virtual Instruments plugin" button, which takes you to a Gumroad product page
+"Get the Imaginary Instruments plugin" button, which takes you to a Gumroad product page
 (mirryouser.gumroad.com) outside the app. That page is operated by Gumroad, not by us, and is subject to
 Gumroad's own privacy policy once you leave the app. We do not receive any information about whether or
 when you tap that button.

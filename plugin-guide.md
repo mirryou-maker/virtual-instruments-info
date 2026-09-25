@@ -23,6 +23,7 @@ builds (metal plates, bars, strings, tapped air columns) using the same engine.
 ## The four tabs
 
 ### Play
+![Play tab, showing the Donut instrument with its shape knob turned and the SFZ/SF2 link](images/guide_play_tab.png)
 - **Axis ratio slider** — only does anything for the Oval Drum (1 = round, up to an axis ratio of 2).
 - **Shape knob** — morphs the geometry live for the Egg, Donut, Twin Drums, Cone and Two Spheres. Greyed
   out for instruments it doesn't apply to.
@@ -32,16 +33,19 @@ builds (metal plates, bars, strings, tapped air columns) using the same engine.
   currently selected (see "Sample packs" below).
 
 ### Tuning
+![Tuning tab, showing the tuning dropdown and Scala .scl/.kbm load buttons](images/guide_tuning_tab.png)
 - Choose equal temperament or one of three experimental scales derived from Bach's Invention No. 2, or
 - Load a Scala **`.scl`** scale (and optionally a **`.kbm`** keyboard mapping) to override it with your
   own tuning entirely.
 
 ### Expression
+![Expression tab, showing the MPE and MTS-ESP toggles](images/guide_expression_tab.png)
 - **MPE** — lets a compatible controller bend/pressure each held note independently.
 - **MTS-ESP** — follow a tuning broadcast live from an MTS-ESP master plugin elsewhere in your DAW,
   instead of the Tuning tab's own choice.
 
 ### Presets
+![Presets tab, showing the preset browser list with a premium entry greyed out](images/guide_presets_tab.png)
 - **Save Preset... / Load From File...** — write/read a `.vipreset` file anywhere on disk.
 - The list below is a browser: every `.vipreset` found under
   `Documents/Imaginary Instruments/Presets` (searched recursively — a premium pack is just a folder of
@@ -69,9 +73,9 @@ to:
 
 ## Also available: the free Android app
 
-The same computed-instrument engine (Free Play set) is also available as **Instrument Explorer**, a
-free Android app with an ear-training quiz mode built around it. See the
-[Android app guide](android-guide.html).
+The same computed-instrument engine (Free Play set) is also available as **Golden Ear: Sound Explorer**
+(formerly "Instrument Explorer"), a free Android app with an ear-training quiz mode built around it. See
+the [Android app guide](android-guide.html).
 
 ## Honest note on realism
 

@@ -1,6 +1,6 @@
-# Instrument Explorer — user guide
+# Golden Ear: Sound Explorer — user guide
 
-Instrument Explorer is a free Android app that plays **computed instruments** — every sound is
+Golden Ear: Sound Explorer is a free Android app that plays **computed instruments** — every sound is
 generated on your device from a physics/math model in real time, not recorded from a real instrument.
 Nothing is uploaded and nothing is downloaded to play it; it all happens live as you touch the keyboard.
 
@@ -28,7 +28,7 @@ built out of wood and metal.
 
 ## Getting the full desktop plugin
 
-Instrument Explorer's Free Play instrument set is also available as **Imaginary Instruments**, a desktop
+Golden Ear: Sound Explorer's Free Play instrument set is also available as **Imaginary Instruments**, a desktop
 VST3/AU plugin that works inside any DAW (Ableton, Logic, REAPER, FL Studio, Cubase, and more). The
 desktop plugin adds Scala (`.scl`/`.kbm`) microtonal tuning import, MPE, MTS-ESP support, and paid sample
 packs for every instrument family.
@@ -40,5 +40,5 @@ screen and under the keyboard in Free Play.
 
 ## Privacy
 
-Instrument Explorer collects no personal data at all — see the [Privacy Policy](privacy-policy.md) for
+Golden Ear: Sound Explorer collects no personal data at all — see the [Privacy Policy](privacy-policy.md) for
 details.

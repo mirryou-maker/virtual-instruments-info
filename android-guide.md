@@ -28,14 +28,14 @@ built out of wood and metal.
 
 ## Getting the full desktop plugin
 
-Instrument Explorer's Free Play instrument set is also available as **Virtual Instruments**, a desktop
+Instrument Explorer's Free Play instrument set is also available as **Imaginary Instruments**, a desktop
 VST3/AU plugin that works inside any DAW (Ableton, Logic, REAPER, FL Studio, Cubase, and more). The
 desktop plugin adds Scala (`.scl`/`.kbm`) microtonal tuning import, MPE, MTS-ESP support, and paid sample
 packs for every instrument family.
 
 **Get it here: <https://mirryouser.gumroad.com/l/dfgpat>**
 
-You'll find the same link behind the "Get the Virtual Instruments plugin" button on the app's Home
+You'll find the same link behind the "Get the Imaginary Instruments plugin" button on the app's Home
 screen and under the keyboard in Free Play.
 
 ## Privacy

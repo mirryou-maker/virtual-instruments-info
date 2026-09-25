@@ -1,6 +1,6 @@
-# Instrument Explorer & Virtual Instruments — info
+# Instrument Explorer & Imaginary Instruments — info
 
-Public documentation for **Instrument Explorer** (the free Android app) and **Virtual Instruments**
+Public documentation for **Instrument Explorer** (the free Android app) and **Imaginary Instruments**
 (the desktop VST3/AU plugin). The app and plugin's source code live in a separate, private repository —
 this repo only holds the public-facing pages linked from the Play Store listing and the apps themselves.
 
@@ -10,5 +10,5 @@ this repo only holds the public-facing pages linked from the Play Store listing 
 
 ## Get the plugin
 
-Instrument Explorer's "Get the Virtual Instruments plugin" button links to:
+Instrument Explorer's "Get the Imaginary Instruments plugin" button links to:
 **<https://mirryouser.gumroad.com/l/dfgpat>**

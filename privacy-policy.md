@@ -34,11 +34,13 @@ information, because the app never asks for any of those in the first place.
 
 ## Network access
 
-The only network activity the app can trigger is opening your device's web browser when you tap the
-"Get the Imaginary Instruments plugin" button, which takes you to a Gumroad product page
-(mirryouser.gumroad.com) outside the app. That page is operated by Gumroad, not by us, and is subject to
-Gumroad's own privacy policy once you leave the app. We do not receive any information about whether or
-when you tap that button.
+The only network activity the app can trigger is opening your device's web browser when you tap one of
+a small number of links inside the app: the "Get the plugin" / "as SFZ/SF2" buttons on the Home and Free
+Play screens (which take you to one of several Gumroad product pages, mirryouser.gumroad.com, depending
+on which instrument or pack the link is for), and the "Help" button (which opens our Android app guide,
+hosted at mirryou-maker.github.io). Those pages are operated by Gumroad or by GitHub Pages, not by us,
+and are subject to their own privacy policies once you leave the app. We do not receive any information
+about whether or when you tap any of these buttons.
 
 ## Children's privacy
 

@@ -1,8 +1,8 @@
-# Privacy Policy — Instrument Explorer
+# Privacy Policy — Golden Ear: Sound Explorer
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 
-Instrument Explorer ("the app") is developed by Chun-Yeol You ("we", "us"). This policy explains what
+Golden Ear: Sound Explorer ("the app") is developed by Chun-Yeol You ("we", "us"). This policy explains what
 the app does and does not do with your information.
 
 ## Summary

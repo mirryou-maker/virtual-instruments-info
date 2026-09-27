@@ -1,8 +1,8 @@
 # Imaginary Instruments — user guide
 
 Imaginary Instruments is a free VST3 plugin (Windows/Linux) where every sound is **computed from
-physics**, not recorded or sampled. 41 instruments: 14 are shapes with no real-world equivalent at all
-(a donut, two overlapping spheres, a 4D/5D hyperball...), and the other 27 are physically-grounded
+physics**, not recorded or sampled. 41 instruments: 12 are shapes with no real-world instrument equivalent at all
+(a donut, two overlapping spheres, a 4D/5D hyperball...), and the other 29 are physically-grounded
 builds (metal plates, bars, strings, tapped air columns) using the same engine.
 
 ## Install

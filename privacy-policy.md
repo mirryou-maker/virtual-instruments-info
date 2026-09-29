@@ -1,6 +1,6 @@
 # Privacy Policy — Golden Ear: Sound Explorer
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-29
 
 Golden Ear: Sound Explorer ("the app") is developed by Chun-Yeol You ("we", "us"). This policy explains what
 the app does and does not do with your information.
@@ -8,7 +8,8 @@ the app does and does not do with your information.
 ## Summary
 
 **We do not collect, store, or transmit any personal data.** The app has no account system, no
-analytics, no crash reporting, and no advertising. Everything the app remembers stays on your device.
+analytics, no crash reporting, and no third-party advertising (the only promotion in the app is for the
+developer's own desktop plugin and sample packs). Everything the app remembers stays on your device.
 
 ## What the app stores, and where
 
@@ -35,7 +36,7 @@ information, because the app never asks for any of those in the first place.
 ## Network access
 
 The only network activity the app can trigger is opening your device's web browser when you tap one of
-a small number of links inside the app: the "Get the plugin" / "as SFZ/SF2" buttons on the Home and Free
+a small number of links inside the app: the "Use these sounds in your music" / "as sample files (SFZ/SF2)" buttons on the Home and Free
 Play screens (which take you to one of several Gumroad product pages, mirryouser.gumroad.com, depending
 on which instrument or pack the link is for), and the "Help" button (which opens our Android app guide,
 hosted at mirryou-maker.github.io). Those pages are operated by Gumroad or by GitHub Pages, not by us,

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Golden Ear: Sound Explorer &amp; Imaginary Instruments</title>
-<meta name="description" content="A free Android listening quiz and a free desktop VST3/AU plugin, both built on the same physics-simulated instrument engine.">
+<meta name="description" content="A free Android listening quiz and a free desktop VST3 plugin, both built on the same physics-simulated instrument engine.">
 <style>
   :root {
     --bg-top: #3e2f7a;
@@ -61,6 +61,8 @@
     font-weight: 600;
   }
   .btn.gold { background: var(--gold); color: #1c1440; }
+  .steps { color: var(--text-muted); padding-left: 20px; margin: 8px 0 4px; }
+  .steps a { color: var(--gold); }
   .btn.disabled { background: #4a4468; color: #b3a9d9; cursor: default; }
 
   section.about { margin: 56px 0; }
@@ -106,11 +108,17 @@
       <h2>Golden Ear: Sound Explorer</h2>
       <p>Free Android app. Test how finely you can hear differences between instruments computed live
         from physics — then play all 41 instruments yourself in Free Play.</p>
-      <a class="btn disabled">Google Play — coming soon</a>
+      <p><strong>Now in closed testing — testers welcome.</strong> Google Play needs 12 testers who keep the app
+        installed for 14 days. Android phone and Google account required.</p>
+      <ol class="steps">
+        <li><a href="https://groups.google.com/g/golden-ear-testers">Join the tester group</a> (required first)</li>
+        <li><a href="https://play.google.com/apps/testing/com.mirryouser.instrumentexplorer">Become a tester</a>, then install from Google Play</li>
+      </ol>
+      <a class="btn" href="https://groups.google.com/g/golden-ear-testers">Join the Android beta</a>
     </div>
     <div class="card">
       <h2>Imaginary Instruments</h2>
-      <p>Free VST3/AU plugin for Windows and Linux. The same engine, in your DAW — plus MPE, MTS-ESP,
+      <p>Free VST3 plugin for Windows and Linux. The same engine, in your DAW — plus MPE, MTS-ESP,
         Scala tuning, and royalty-free SFZ/SF2 sample packs for every instrument.</p>
       <a class="btn gold" href="https://mirryouser.gumroad.com/l/dfgpat">Get the plugin on Gumroad</a>
     </div>
@@ -137,6 +145,7 @@
     <h2>Documentation</h2>
     <div class="links">
       <a href="android-guide.html">Android app guide</a>
+      <a href="android-guide-ko.html">안드로이드 앱 안내 (한국어)</a>
       <a href="plugin-guide.html">Plugin guide</a>
       <a href="privacy-policy.html">Privacy policy</a>
     </div>

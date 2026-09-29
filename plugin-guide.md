@@ -82,7 +82,7 @@ the [Android app guide](android-guide.html).
 The metal, bar, string and tube instruments are computed with solvers checked against exact solutions
 or mesh refinement, but none has been compared with a published measurement of a real object. Among the
 first 10 (drum-like) instruments, every one is a bounded resonator with a fixed boundary: the Round
-Drum matches a real timpani measurement to five significant figures; the rest are new colours inspired
+Drum reproduces the exact ideal round-membrane solution to five significant figures; the rest are new colours inspired
 by a shape, not simulations of real drums or bells.
 
 ## Support

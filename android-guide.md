@@ -1,44 +1,67 @@
 # Golden Ear: Sound Explorer — user guide
 
-Golden Ear: Sound Explorer is a free Android app that plays **computed instruments** — every sound is
-generated on your device from a physics/math model in real time, not recorded from a real instrument.
-Nothing is uploaded and nothing is downloaded to play it; it all happens live as you touch the keyboard.
+Golden Ear: Sound Explorer is a free Android app that plays **computed instruments**: every sound is generated
+on your device from a physics model in real time, not recorded from a real instrument. Nothing is uploaded and
+nothing is downloaded; it all happens live as you play.
 
 ## Home screen
 
-- **Play today's challenge** — a short (10-question) listening quiz. Everyone who opens the app on the
-  same calendar day gets the exact same quiz, so you can compare scores with a friend.
-- **Free Play** — pick any of the app's instruments and play them freely on the on-screen keyboard. No
-  time limit, no quiz.
-- **Skill Check** — the same kind of listening question as the daily quiz, but you choose the difficulty
-  yourself instead of following the day's fixed progression:
-  - **Everyday Ears** — comfortable, easy-to-hear differences.
-  - **Trained Ear** — noticeable to a trained musician.
-  - **Golden Ear** — the hardest tier, calibrated to roughly the top 5% of listeners.
-- **Ear rating** — a simple score (starting at 1000) that goes up when you answer correctly and down
-  when you don't, scaled by which difficulty tier the question was. It's stored only on your own device.
+- **Play today's challenge**: a 10-question listening quiz. Everyone who opens the app on the same calendar
+  day gets the same quiz, and it gets harder as you go. If you leave part-way, it picks up where you stopped.
+  Once you finish, the button changes to **Review today's result**.
+- **Free Play**: pick any of the 41 instruments and play it on the on-screen keyboard. No quiz, no time limit.
+- **Skill Check**: the same kind of questions, but you pick the difficulty tier yourself, any time:
+  - **Everyday Ears**: comfortable, everyday listening.
+  - **Trained Ear**: differences noticeable to a trained musician.
+  - **Golden Ear**: the finest differences.
+- **What's this?** (next to Skill Check): explains how the quiz works.
+- **EAR rating** (top right): a running skill score that starts at 1000. Each answer moves it right away, up for
+  correct answers and down for missed ones, and harder questions move it more. It is stored only on your device.
+- **Help** (top right): opens this guide.
+
+## The two kinds of question
+
+- **Shape match**: the same instrument plays the same note in two shapes, A and B. Tap **Play A** and **Play B**
+  to listen, then pick the one with the shape the question asks for (for example, the more elongated egg or the
+  more tapered cone). Both pictures look the same until you answer; then they show the real shapes.
+- **Pitch match**: you hear a reference note (C4), then a mystery note. Tap the mystery note on the keyboard.
+
+After each answer, tap **Next question**. At the end you can **copy your result** and paste it anywhere to
+challenge a friend.
 
 ## Free Play
 
-Pick an instrument family, then a specific instrument, and play it on the keyboard. Instruments marked
-**(V)** are purely mathematical/imaginary shapes with no real-world counterpart (a sphere, a donut, a
-hyperball...); the rest are computed from the same physics a real instrument of that kind would follow
-(a round drum, an oval drum, tuned bars, strings, wind pipes), just rendered on your phone instead of
-built out of wood and metal.
+Pick an instrument family, then an instrument, and play it on the keyboard (drag or use the arrows to reach
+other octaves). Instruments marked **(V)** are purely mathematical shapes with no real-world counterpart (a
+donut, two overlapping spheres, a four-dimensional hyperball...); the rest are computed from the same physics a
+real instrument of that kind follows (round and oval drums, metal plates, bars, strings, tapped air columns).
 
-## Getting the full desktop plugin
+- **Shape** slider: changes the shape of the Egg, Donut, Twin Drums, Cone and Two Spheres. The next note you
+  play comes from the reshaped instrument; a note that is already ringing keeps its shape.
+- **Axis ratio a/b** slider: changes the Oval Drum, from round to twice as long as it is wide.
+- Sliders that don't apply to the selected instrument are dimmed.
 
-Golden Ear: Sound Explorer's Free Play instrument set is also available as **Imaginary Instruments**, a desktop
-VST3/AU plugin that works inside any DAW (Ableton, Logic, REAPER, FL Studio, Cubase, and more). The
-desktop plugin adds Scala (`.scl`/`.kbm`) microtonal tuning import, MPE, MTS-ESP support, and paid sample
-packs for every instrument family.
+## Language
+
+The app follows your phone's language. On Android 13 or newer you can also pick a language for this app only:
+**Settings > Apps > Golden Ear: Sound Explorer > Language**. Currently available: English and Korean.
+
+## Using these sounds on a computer
+
+The same instruments are available as **Imaginary Instruments**, a free VST3 plugin for Windows and Linux that
+works inside a DAW (REAPER, Cubase, Ableton Live, FL Studio, Bitwig Studio and others). The plugin adds Scala
+(`.scl`/`.kbm`) microtonal tuning, MPE and MTS-ESP support, and each instrument family is also available as an
+SFZ/SF2 sample pack.
 
 **Get it here: <https://mirryouser.gumroad.com/l/dfgpat>**
 
-You'll find the same link behind the "Get the Imaginary Instruments plugin" button on the app's Home
-screen and under the keyboard in Free Play.
+Inside the app, the same link is behind **Use these sounds in your own music** on the Home screen and
+**Use these sounds in your music** in Free Play. The link next to it in Free Play opens the sample pack for the
+instrument you have selected.
 
 ## Privacy
 
-Golden Ear: Sound Explorer collects no personal data at all — see the [Privacy Policy](privacy-policy.md) for
+Golden Ear: Sound Explorer collects no personal data at all. See the [Privacy Policy](privacy-policy.md) for
 details.
+
+Questions or bug reports: mirryou@gmail.com

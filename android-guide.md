@@ -17,7 +17,8 @@ nothing is downloaded; it all happens live as you play.
 - **What's this?** (next to Skill Check): explains how the quiz works.
 - **EAR rating** (top right): a running skill score that starts at 1000. Each answer moves it right away, up for
   correct answers and down for missed ones, and harder questions move it more. It is stored only on your device.
-- **Help** (top right): opens this guide.
+- **Help** (top right): a menu with this guide, the desktop plugin ("Use these sounds in your own music") and the
+  privacy policy. The privacy policy is also linked at the bottom right of the Home screen.
 
 ## The two kinds of question
 
@@ -39,7 +40,10 @@ real instrument of that kind follows (round and oval drums, metal plates, bars, 
 - **Shape** slider: changes the shape of the Egg, Donut, Twin Drums, Cone and Two Spheres. The next note you
   play comes from the reshaped instrument; a note that is already ringing keeps its shape.
 - **Axis ratio a/b** slider: changes the Oval Drum, from round to twice as long as it is wide.
+- **Ring length (Decay)** slider: how long notes ring, for every instrument (0.25 to 4 times; 1 = as computed,
+  the default). Strings and some drums ring for many seconds; turn it down for shorter notes. Double-tap to reset.
 - Sliders that don't apply to the selected instrument are dimmed.
+- **Help** (top right): the same menu as on the Home screen, plus the sample pack for the instrument you have selected.
 
 ## Language
 
@@ -48,16 +52,15 @@ The app follows your phone's language. On Android 13 or newer you can also pick 
 
 ## Using these sounds on a computer
 
-The same instruments are available as **Imaginary Instruments**, a free VST3 plugin for Windows and Linux that
-works inside a DAW (REAPER, Cubase, Ableton Live, FL Studio, Bitwig Studio and others). The plugin adds Scala
-(`.scl`/`.kbm`) microtonal tuning, MPE and MTS-ESP support, and each instrument family is also available as an
-SFZ/SF2 sample pack.
+The same instruments are available as **Imaginary Instruments**, a free plugin (VST3 and CLAP for Windows and
+Linux, LV2 on Linux, plus a standalone Windows app) that works inside a DAW (REAPER, Cubase, Ableton Live, FL Studio,
+Bitwig Studio and others). The plugin adds sound-shaping controls, Scala (`.scl`/`.kbm`) and `.tun` microtonal
+tuning, MPE and MTS-ESP support, and each instrument family is also available as an SFZ/SF2 sample pack.
 
 **Get it here: <https://mirryouser.gumroad.com/l/dfgpat>**
 
-Inside the app, the same link is behind **Use these sounds in your own music** on the Home screen and
-**Use these sounds in your music** in Free Play. The link next to it in Free Play opens the sample pack for the
-instrument you have selected.
+Inside the app, open **Help** and choose **Use these sounds in your own music**. In Free Play the same menu also
+opens the sample pack for the instrument you have selected.
 
 ## Privacy
 

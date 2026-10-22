@@ -16,7 +16,6 @@ public-facing pages linked from the Play Store listing and from inside the apps 
 
 ## Get the apps
 
-- Android app: **Golden Ear: Sound Explorer** — free, now in closed testing on Google Play. Testers welcome:
-  join <https://groups.google.com/g/golden-ear-testers>, then opt in at
-  <https://play.google.com/apps/testing/com.mirryouser.instrumentexplorer>.
+- Android app: **Golden Ear: Sound Explorer** — free on Google Play:
+  <https://play.google.com/store/apps/details?id=com.mirryouser.instrumentexplorer>.
 - Desktop plugin: **<https://mirryouser.gumroad.com/l/dfgpat>** (Windows/Linux, free VST3 beta).
